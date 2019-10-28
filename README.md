@@ -13,6 +13,8 @@ mvn test
 
 ### JMockit
 
+Generates code coverage report using [JaCoCo](https://www.eclemma.org/jacoco/trunk/index.html)
+
 ```
 cd JMockit/
 mvn test
